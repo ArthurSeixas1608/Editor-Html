@@ -1,0 +1,15 @@
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\bin\Debug\net9.0\Editor de HTML.exe
+C:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\bin\Debug\net9.0\Editor de HTML.deps.json
+C:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\bin\Debug\net9.0\Editor de HTML.runtimeconfig.json
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\bin\Debug\net9.0\Editor de HTML.dll
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\bin\Debug\net9.0\Editor de HTML.pdb
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\Editor de HTML.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\Editor de HTML.AssemblyInfoInputs.cache
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\Editor de HTML.AssemblyInfo.cs
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\Editor de HTML.csproj.CoreCompileInputs.cache
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\Editor de HTML.sourcelink.json
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\Editor de HTML.dll
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\refint\Editor de HTML.dll
+c:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\Editor de HTML.pdb
+C:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\Editor de HTML.genruntimeconfig.cache
+C:\Users\arthu\EditorTexto\Editor de Texto\Editor de HTML\obj\Debug\net9.0\ref\Editor de HTML.dll
